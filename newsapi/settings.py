@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'news',
-    'rest_framework'
+    'jboffers',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
